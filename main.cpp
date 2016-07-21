@@ -1,6 +1,7 @@
 //
 //  main.cpp
 //  Guess the Number
+//	Version 1.0
 //
 //  Created by Gregory Frey on 7/20/16.
 //  Copyright © 2016 Gregory Frey. All rights reserved.
